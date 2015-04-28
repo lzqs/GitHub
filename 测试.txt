@@ -1,1 +1,2 @@
-1111111这是测试版本！
+1111111这是测试版本！Git is a distributed version control system.
+Git is free software.
